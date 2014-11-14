@@ -39,6 +39,7 @@
             this.Hello.TabIndex = 0;
             this.Hello.Text = "Well";
             this.Hello.UseVisualStyleBackColor = true;
+            this.Hello.Click += new System.EventHandler(this.Hello_Click);
             // 
             // Form1
             // 
