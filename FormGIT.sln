@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormGIT", "FormGIT\FormGIT.csproj", "{8612E958-26B0-4005-AF78-3F374CB868D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormGIT2", "FormGIT2\FormGIT2.csproj", "{F2B50072-7548-450C-B6E4-0AFE29F86536}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8612E958-26B0-4005-AF78-3F374CB868D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8612E958-26B0-4005-AF78-3F374CB868D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8612E958-26B0-4005-AF78-3F374CB868D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2B50072-7548-450C-B6E4-0AFE29F86536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B50072-7548-450C-B6E4-0AFE29F86536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B50072-7548-450C-B6E4-0AFE29F86536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B50072-7548-450C-B6E4-0AFE29F86536}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
